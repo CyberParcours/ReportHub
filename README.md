@@ -52,4 +52,4 @@ Ce projet est conçu exclusivement pour l’apprentissage, les compétitions CTF
 
 ---
 
-*Créé par **CyberParcours** · ReportHub Medium*
+*Créé par **Alexandru Stancu - CyberParcours** · ReportHub Medium*
